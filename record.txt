@@ -1,0 +1,40 @@
+1,bob,2nd,cse,60,64,69,70,eligible,app
+2,nova,2nd,cse,58,60,65,64,eligibe,ml
+3,smrithi,2nd,cse,57,59,70,74,eligible,ai
+4,pooja,2nd,cse,45,34,36,37,not eligible,null
+5,sushant,2nd,cse,54,43,63,73,eligible,robotics
+6,mounika,2nd,cse,55,41,68,58,eligible,ruby
+7,mahesh,2nd,cse,25,50,46,37,not eligible,null
+8,nihal,2nd,cse,54,69,72,61,eligible,webdevelopment
+9,nishitha,2nd,cse,71,59,63,73,eligible,androiddevelopment
+10,kiran,2nd,cse,25,20,45,37,noteligible,null
+11,rohit,1st,cse,45,34,36,37,noteligible,null
+12,mike,1st,cse,45,34,36,37,noteligible,null
+13,sushrut,1st,cse,45,21,36,37,noteligible,null
+14,ria,1st,cse,58,61,69,65,eligible,app
+15,ishan,1st,cse,71,59,68,54,eligible,webdevelopment
+16,varun,1st,cse,71,65,63,54,eligible,ruby
+17,vindya,1st,cse,45,24,36,37,noteligible,null
+18,reshma,1st,cse,45,50,36,58,eligible,ml
+19,ravi,1st,cse,45,25,45,37,noteligible,null
+20,ekta,1st,cse,45,34,36,37,eligible,ai
+21,girish,3rd,cse,45,34,45,41,not eligible,null
+22,harini,3rd,cse,14,34,36,37,not eligible,null
+23,harsha,3rd,cse,54,34,63,37,eligible,ai
+24,hardik,3rd,cse,71,54,36,73,eligible,ml
+25,varshini,3rd,cse,65,64,56,70,eligible,ruby
+26,swami,3rd,cse,45,21,36,37,not eligible,null
+27,seshu,3rd,cse,48,34,30,37,not eligible,null
+28,swathi,3rd,cse,70,69,68,70,eligible,androiddevelopment
+29,lalitha,3rd,cse,41,50,63,54,eligible,ai
+30,kamini,3rd,cse,61,65,60,58,eligible,webdevelopment
+31,kumar,4rth,cse,65,71,69,67,eligible,ai
+32,jackson,4rth,cse,54,69,68,71,eligible,ml
+33,roshan,4rth,cse,54,57,65,69,eligible,ruby
+34,anupma,4rth,cse,58,59,61,69,eligible,androiddevelopment
+35,ramya,4rth,cse,45,30,36,37,not eligible,null
+36,srinu,4rth,cse,58,69,65,56,eligible,ruby
+37,bhuvna,4rth,cse,60,69,58,56,eligible,webdevelopment
+38,hari,4rth,cse,30,25,36,37,not eligible,null
+39,sukumar,4rth,cse,58,63,62,70,eligible,ai
+40,kavya,4rth,cse,70,68,69,64,eligible,app
